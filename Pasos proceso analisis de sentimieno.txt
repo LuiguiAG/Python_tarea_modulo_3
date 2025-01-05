@@ -1,0 +1,4 @@
+- Extraer el archivo zip en el disco local C:\Users\nombre_usuario>
+- En la linea de comando ubicarse en la carpeta creada tarea_modulo_3
+- Ejecutar el acrhivo .bat
+- Ejecutar archivo tarea_modulo_3.py
